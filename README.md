@@ -8,7 +8,7 @@ J'ai pour projet de devenir développeur web 💻!
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/romain-s%C3%A9bastia-81bb85241/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/romain-s%C3%A9bastia-81bb85241/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a><br>
 
 
 
