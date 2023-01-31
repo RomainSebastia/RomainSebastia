@@ -14,10 +14,10 @@ J'ai pour projet de devenir développeur web 💻!
 
 ## 🔭 Mon projet
 
-- à faire des sites HTML/CSS
+- à faire des sites HTML/CSS/JAVA Script
 - le Responsive
-- j'apprends actuellement le JAVA Script
-- m'entrainer pour entrée à Kercode pour encore plus progresser
+- en ce moment j'apprends MySQL
+- m'entrainer à Kercode pour encore plus progresser
 
 
 
