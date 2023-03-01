@@ -14,9 +14,10 @@ J'ai pour projet de devenir développeur web 💻!
 
 ## 🔭 Mon projet
 
-- à faire des sites HTML/CSS/JavaScript/PHP/MySQL
-- le Responsive
-- trouver une Alternance
+- Faire des sites HTML/CSS/JavaScript/PHP/MySQL
+- Avoir mon diplôme a kercode
+- Trouver une Alternance
+
 
 
 
