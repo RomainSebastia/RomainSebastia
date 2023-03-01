@@ -15,7 +15,7 @@ J'ai pour projet de devenir développeur web 💻!
 ## 🔭 Mon projet
 
 - Faire des sites HTML/CSS/JavaScript/PHP/MySQL
-- Avoir mon diplôme a kercode
+- Avoir mon diplôme 
 - Trouver une Alternance
 
 
@@ -28,8 +28,8 @@ J'ai pour projet de devenir développeur web 💻!
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHPt&color=F7DF1E)
-![](https://img.shields.io/badge/Code-mySQL-informational?style=flat&logo=MySQLt&color=F7DF1E)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHPt&color=F7DF1B)
+![](https://img.shields.io/badge/Code-mySQL-informational?style=flat&logo=MySQLt&color=F7DF1A)
 
 
 ## 📈 Stats 
