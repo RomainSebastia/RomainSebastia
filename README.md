@@ -14,9 +14,9 @@ J'ai pour projet de devenir développeur web 💻!
 
 ## 🔭 Mon projet
 
-- Faire des sites HTML/CSS/JavaScript/PHP/MySQL
-- Avoir mon diplôme 
-- Trouver une Alternance
+- Faire des sites en HTML/CSS/JavaScript/MySQL.
+- Trouver une alternance pour obtenir un Bachelor en développement web.
+- Apprendre de nouveaux langages.
 
 
 
