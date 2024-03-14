@@ -3,7 +3,7 @@ Je me présente Romain Sébastia
 </h3>
 
 <h2 align="center">
-J'ai pour projet de devenir développeur web 💻!
+Je cherche une alternance en développeur web 💻!
 </h2> 
 
 ### 🤝 Mes réseaux:
@@ -15,7 +15,7 @@ J'ai pour projet de devenir développeur web 💻!
 ## 🔭 Mon projet
 
 - Faire des sites en HTML/CSS/JavaScript/MySQL.
-- Trouver une alternance pour obtenir un Bachelor en développement web.
+- Trouver une alternance pour obtenir un Bac +3 en développement web.
 - Apprendre de nouveaux langages.
 
 
